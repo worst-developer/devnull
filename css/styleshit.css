@@ -1,21 +1,19 @@
 body {
     background-color: #80CBC4
 }
+
 .button {
     display: block;
     margin: 0 auto;
     width: 40%;
     height: 70%;
-
     opacity: 0;
-}
-.sometext{
-    display: block;
 }
 h1 {
     color: white;
-    font-family: cursive;
+    font-family: Quicksand;
     text-align: center;
     font-size: 48pt;
     margin-top: -23% ;
+    text-transform: uppercase;
 }
