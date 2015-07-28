@@ -17,3 +17,19 @@ h1 {
     margin-top: -23% ;
     text-transform: uppercase;
 }
+#coffee {
+    display: block;
+    text-align: center;
+    margin-top: 8%;
+}
+h3 {
+    color: white;
+    font-family: Cookie;
+    text-align: center;
+    font-size: 30pt;
+    margin-top: 12%;
+}
+a {
+
+    color: #809ac7;
+}
