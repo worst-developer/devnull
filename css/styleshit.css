@@ -1,0 +1,35 @@
+body {
+    background-color: #80CBC4
+}
+
+.button {
+    display: block;
+    margin: 0 auto;
+    width: 40%;
+    height: 70%;
+    opacity: 0;
+}
+h1 {
+    color: white;
+    font-family: Quicksand;
+    text-align: center;
+    font-size: 48pt;
+    margin-top: -23% ;
+    text-transform: uppercase;
+}
+#coffee {
+    display: block;
+    text-align: center;
+    margin-top: 8%;
+}
+h3 {
+    color: white;
+    font-family: Cookie;
+    text-align: center;
+    font-size: 30pt;
+    margin-top: 12%;
+}
+a {
+
+    color: #809ac7;
+}
