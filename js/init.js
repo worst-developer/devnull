@@ -21,8 +21,10 @@ var str = ["Hello world!!!!!!!!!", "lol", "tizh programmer", "fuck yeah!"];
 $(document).ready(function() {
     $('.button').on("click", function () {
         $('#text').text(str[Math.floor(Math.random()*str.length)]);
-        $('#text').addClass('animated bounce').one("webkitAnimationEnd mozAnimationEnd MSAnimationEnd", function(){
-            $(this).removeClass();
-        });
+        $('#text').addClass('animated bounce');
+        setTimeout(function(){
+            $('#text').removeClass();
+        }, 2000);
+
         });
  });
