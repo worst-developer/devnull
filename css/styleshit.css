@@ -1,5 +1,5 @@
 body {
-    background-color: #80CBC4
+    background-color: #feaf17;
 }
 
 .button {
@@ -19,7 +19,7 @@ h1 {
 }
 #coffee {
     display: block;
-    text-align: center;
+    margin: 0 auto;
     margin-top: 8%;
 }
 h3 {
@@ -27,9 +27,8 @@ h3 {
     font-family: Cookie;
     text-align: center;
     font-size: 30pt;
-    margin-top: 12%;
+    margin-top: 10%;
 }
 a {
-
-    color: #809ac7;
+    color: #6fceb0;
 }
